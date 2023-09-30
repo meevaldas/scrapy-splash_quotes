@@ -1,0 +1,1 @@
+# scrapy-splash_quotes
