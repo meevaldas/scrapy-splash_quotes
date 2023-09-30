@@ -1,2 +1,5 @@
-scrapy
+scrapy~=2.11.0
 scrapy_splash
+
+itemloaders~=1.1.0
+itemadapter~=0.8.0
